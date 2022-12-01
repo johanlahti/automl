@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/5780544/204021439-c0106549-6f20-4743-b
 
 ## About
 
-Created during a 2-day Hackathon mainly for the purpose of learning more about currently available Auto ML techniques. It also serves as a proof of concept of how easily Auto ML libraries like autosklearn and autokeras (etc.) can exposed through a web interface benefitting everyone, from data scientists and analysts to those with less knowledge about machine learning but perhaps with more domain knowledge.
+Created during a 2-day Hackathon mainly for the purpose of learning more about currently available Auto ML techniques. It also serves as a proof of concept of how easily Auto ML libraries like autosklearn and autokeras (etc.) can be exposed through a web interface, something which can benefit everyone, from data scientists and analysts, to those with less knowledge about machine learning but with more domain knowledge.
 
 ## Install backend
 
